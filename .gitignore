@@ -6,3 +6,5 @@
 4.8/plugins/OctoPrintPlugin/OctoPrintPlugin/__pycache__/OctoPrintOutputDevice.cpython-35.pyc
 4.8/plugins/*
 .DS_Store
+
+4.8/cura.cfg
