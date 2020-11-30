@@ -2,7 +2,7 @@
     "dismissed": [],
     "installed": {
         "OctoPrintPlugin": {
-            "filename": "/Users/berns/Library/Application Support/cura/4.6/cache/cura_packages/OctoPrintPlugin.curapackage",
+            "filename": "/Users/mega_man/Library/Application Support/cura/4.8/cache/cura_packages/OctoPrintPlugin.curapackage",
             "package_info": {
                 "author": {
                     "author_id": "fieldofview",
@@ -17,9 +17,9 @@
                 "is_installed": true,
                 "package_id": "OctoPrintPlugin",
                 "package_type": "plugin",
-                "package_version": "3.5.16",
+                "package_version": "3.5.17",
                 "sdk_version": 7,
-                "sdk_version_semver": "7.2.0",
+                "sdk_version_semver": "7.3.0",
                 "website": "https://github.com/fieldOfView/Cura-OctoPrintPlugin"
             }
         }
